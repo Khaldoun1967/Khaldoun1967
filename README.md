@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Khaldoun1967
-- 👀 I’m interested in microcontroller programming (STM32f, Ardiuno, PIC, AVR, ESP8266, ESP32, and ...), C# desktop programming, HTML CSS.
+- 👀 I’m interested in microcontroller programming (STM32f, Ardiuno, PIC, AVR, ESP8266, ESP32, and ...),
+    C# desktop programming, android studio, and HTML/CSS.
 - 🌱 I’m currently working on automotive interfacing OBD-2, K-Line to microcontroller.
 - 📫 How to reach me ... Email me: khaldounkayal3@gmail.com
 
